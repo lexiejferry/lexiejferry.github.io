@@ -7,7 +7,7 @@ title: Lexie Ferry's github Portfolio
 
 ### NDVI and State Tax Rates 
 
-![It's Fine Alt Text](NDVI_Tax_Rates/p1_teaser.png)
+![It's Fine Alt Text](NDVI_Tax_Rates/Project1mapT2.png)
 
 [See more details here.](https://dillonma.github.io/project1_bamap/project1.html)
 
