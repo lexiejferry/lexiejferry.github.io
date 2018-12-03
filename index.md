@@ -9,7 +9,7 @@ title: Lexie Ferry's github Portfolio
 
 ![It's Fine Alt Text](NDVI_Tax_Rates/Project1mapT2.png)
 
-[See more details here.](https://dillonma.github.io/project1_bamap/project1.html)
+[See more details here.](https://lexiejferry.github.io/NDVI_Tax_Rates/NDVI_Tax_Rates.html)
 
 This teaser is a 350px x 200px teaser image. Mauris sollicitudin elementum ipsum et auctor. Pellentesque sollicitudin aliquet quam, non vulputate mi tincidunt a. Quisque ultricies lectus mattis leo pharetra fringilla. 
 
