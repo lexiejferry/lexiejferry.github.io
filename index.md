@@ -5,9 +5,9 @@ title: Lexie Ferry's github Portfolio
 <div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
 
-### Project 1 
+### NDVI and State Tax Rates 
 
-![It's Fine Alt Text](project1_bamap/p1_teaser.png)
+![It's Fine Alt Text](NDVI_Tax_Rates/p1_teaser.png)
 
 [See more details here.](https://dillonma.github.io/project1_bamap/project1.html)
 
