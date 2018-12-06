@@ -12,11 +12,11 @@
 
 - **Results:** There was determined to be a slightly negative correlation between NDVI and State Tax values with a correlation of -0.1434. This is most likely due to the distribution of residential property being located near forests in suburbs, versus commercial property being located more in the city center where there is less vegetation. For a better result, a differentiation between residential and commercial property would be needed.
 
-**Software Used:** QGIS 3.2, Mircrosoft Excel (for the graphing and Correlation Equation)
+- **Software Used:** QGIS 3.2, Mircrosoft Excel (for the graphing and Correlation Equation)
 
 - **Tools, Plugins, and Packages:** Spatialite Databases, SQL Query, Zonal Statistics, Clip, Extract/clip by extent, Raster Calculator, Join attributes by location, 2.5D Visualization
 
-**Data Sources:** USGS Landsat 8 satellites, Baltimore City Services (https://cityservices.baltimorecity.gov/realproperty)
+- **Data Sources:** USGS Landsat 8 satellites, Baltimore City Services (https://cityservices.baltimorecity.gov/realproperty)
 
 Author: Lexie Ferry
 
