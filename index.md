@@ -1,10 +1,12 @@
-**Lexie Ferry's github Portfolio**
+#### Lexie Ferry's github Portfolio
 
 <!--This is the first row of projects -->
 <div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
 
+---
 ### NDVI and State Tax Rates 
+---
 
 ![It's Fine Alt Text](NDVI_Tax_Rates/Project1mapT2.png)
 
