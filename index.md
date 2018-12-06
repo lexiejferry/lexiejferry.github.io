@@ -11,12 +11,13 @@ title: Lexie Ferry's github Portfolio
 
 [See more details here.](https://lexiejferry.github.io/NDVI_Tax_Rates/NDVI_Tax_Rates.md)
 
-This map shows a 3D map of State Tax rates and NDVI values of all of Balitmore County in 2017. 
+**Description** This map shows a 3D map of State Tax rates and NDVI values of all of Balitmore County in 2017. 
 
-<small>__Tools__: QGIS, Interpolation, Photoshop</small>
+**Software Used:** QGIS 3.2, Mircrosoft Excel (for the graphing and Correlation Equation)
 
-<small>__Data__: 
-[Supportland](https://supportland.com/), [Oregon Craft Brew Guild](https://oregoncraftbeer.org/guild/)</small>
+- **Tools, Plugins, and Packages:** Spatialite Databases, SQL Query, Zonal Statistics, Clip, Extract/clip by extent, Raster Calculator, Join attributes by location, 2.5D Visualization
+
+**Data Sources:** USGS Landsat 8 satellites, Baltimore City Services (https://cityservices.baltimorecity.gov/realproperty)
 
 </div>
 
