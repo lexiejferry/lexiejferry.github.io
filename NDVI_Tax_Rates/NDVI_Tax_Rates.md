@@ -1,4 +1,4 @@
-### NDVI Tax Rates
+**NDVI Tax Rates**
 
 **A Comarision of Vegetation Presence to State Tax rates in Baltimore City**
 
