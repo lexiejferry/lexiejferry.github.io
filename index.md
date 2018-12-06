@@ -11,7 +11,7 @@ title: Lexie Ferry's github Portfolio
 
 [See more details here.](https://lexiejferry.github.io/NDVI_Tax_Rates/NDVI_Tax_Rates.md)
 
-This teaser is a 350px x 200px teaser image. Mauris sollicitudin elementum ipsum et auctor. Pellentesque sollicitudin aliquet quam, non vulputate mi tincidunt a. Quisque ultricies lectus mattis leo pharetra fringilla. 
+This map shows a 3D map of State Tax rates and NDVI values of all of Balitmore ounty in 2017. 
 
 <small>__Tools__: QGIS, Interpolation, Photoshop</small>
 
