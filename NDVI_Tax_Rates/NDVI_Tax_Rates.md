@@ -6,9 +6,9 @@
 
 - **About:** For this project, I made an NDVI from freely availible Landsat 8 images. I gathered Baltimore City census data for the year of 2017 and made a hexagonal grid of 350m by 350m (approximately the size of 3 city blocks) to cover the entirety of the census data. I then extracted the average NDVI and State Tax information using a combination of SQL query and Zonal Statistics. Data was then reclassified for viewing and displayed on a 2.5D Map. All data was converted to a North American Albers Equal Area Conic projection before processing, as this allowed the final product to be consistent in projections and have a visualy appealing tilt. Landsat Data used was taken in June of 2017 to maximize vegetation intensity and to allow consistency between census data and vegetation levels
 
-![alt text](https://github.com/lexiejferry/Project-1/blob/master/Project1mapT2.png "Project1mapT2")
+![alt text](https://github.com/lexiejferry/lexiejferry.github.io/blob/master/NDVI_Tax_Rates/Project1mapT2.png "Project1mapT2")
 
-![alt text](https://github.com/lexiejferry/Project-1/blob/master/Chart_P2.PNG "Chart_P2")
+![alt text](https://github.com/lexiejferry/lexiejferry.github.io/blob/master/NDVI_Tax_Rates/Chart_P2.PNG "Chart_P2")
 
 - **Results:** There was determined to be a slightly negative correlation between NDVI and State Tax values with a correlation of -0.1434. This is most likely due to the distribution of residential property being located near forests in suburbs, versus commercial property being located more in the city center where there is less vegetation. For a better result, a differentiation between residential and commercial property would be needed.
 
