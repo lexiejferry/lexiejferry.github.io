@@ -11,7 +11,7 @@ title: Lexie Ferry's github Portfolio
 
 [See more details here.](https://lexiejferry.github.io/NDVI_Tax_Rates/NDVI_Tax_Rates.md)
 
-This map shows a 3D map of State Tax rates and NDVI values of all of Balitmore ounty in 2017. 
+This map shows a 3D map of State Tax rates and NDVI values of all of Balitmore County in 2017. 
 
 <small>__Tools__: QGIS, Interpolation, Photoshop</small>
 
