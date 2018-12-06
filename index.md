@@ -29,10 +29,14 @@
 
 <div style="display: table-cell; width:370px" markdown="1">
 
-### Project 2
+---
+### Chesapeake Bay Nitrates
 
 ![It's Fine Alt Text](project2_sfi/p2_teaser.png)
 
+---
+
+---
 [See more details here.](https://dillonma.github.io/project2_sfi/project2.html)
 
 The text below is smaller than the rest of this text. I used html tags for `small` and wrapped the text like this:
@@ -47,6 +51,8 @@ Notice I used markdown inside the html tags.
 
 <small>__Data__:
 [Census Streets](https://www.census.gov/cgi-bin/geo/shapefiles/index.php), US Business Directory (defunct)</small>
+
+---
 
 </div>
 </div>
