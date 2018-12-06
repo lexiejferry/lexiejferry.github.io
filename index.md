@@ -10,9 +10,6 @@
 
 ![It's Fine Alt Text](NDVI_Tax_Rates/Project1mapT2.png)
 
----
-
----
 [See more details here.](https://lexiejferry.github.io/NDVI_Tax_Rates/NDVI_Tax_Rates.html)
 
 **Description** This map shows a 3D map of State Tax rates and NDVI values of all of Balitmore County in 2017. 
@@ -23,42 +20,36 @@
 
 **Data Sources:** USGS Landsat 8 satellites, Baltimore City Services (https://cityservices.baltimorecity.gov/realproperty)
 
----
-
 </div>
 
 <div style="display: table-cell; width:370px" markdown="1">
+
+---
 
 ---
 ### Chesapeake Bay Nitrates
 
 ![It's Fine Alt Text](Chesapeake_Nitrates_Map/Nitrates.gif)
 
----
-
----
 [See more details here.](https://lexiejferry.github.io/Chesapeake_Nitrates_Map/Chesapeake_Nitrates_Map.html)
 
-The text below is smaller than the rest of this text. I used html tags for `small` and wrapped the text like this:
+**Description** This map shows a 3D map of State Tax rates and NDVI values of all of Balitmore County in 2017. 
 
-```html
-<small>Text to *make* small.</small>
-```
+**Software Used:** QGIS 3.2, Mircrosoft Excel (for the graphing and Correlation Equation)
 
-Notice I used markdown inside the html tags. 
+- **Tools, Plugins, and Packages:** Spatialite Databases, SQL Query, Zonal Statistics, Clip, Extract/clip by extent, Raster Calculator, Join attributes by location, 2.5D Visualization
 
-<small>__Tools__: QGIS, R</small>
-
-<small>__Data__:
-[Census Streets](https://www.census.gov/cgi-bin/geo/shapefiles/index.php), US Business Directory (defunct)</small>
-
----
+**Data Sources:** USGS Landsat 8 satellites, Baltimore City Services (https://cityservices.baltimorecity.gov/realproperty)
 
 </div>
 </div>
 <!--This is the second row of projects -->
 <div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
+  
+---
+
+---
 
 ### Project 3 
 
@@ -77,6 +68,10 @@ This project uses a 350px square image for the teaser image, but inside the squa
 
 <div style="display: table-cell; width:370px" markdown="1">
 
+---
+
+---
+
 ### Project 4
 
 ![It's Fine Alt Text](project4_demo/p4_teaser.png)
@@ -92,6 +87,8 @@ Phasellus consequat quam elit, et iaculis risus pellentesque aliquet. Proin ut e
 
 </div>
 </div>
+
+---
 
 <!--This is just other markdown -->
 
