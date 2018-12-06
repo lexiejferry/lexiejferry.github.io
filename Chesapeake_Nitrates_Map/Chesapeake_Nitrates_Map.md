@@ -1,17 +1,17 @@
 **Chesapeake Bay Nitrate Levels, 2017**
 
-**Description:** A map showing changes in Total Dissolved Nitrate from years 2000-2017 in the chesapeake bay
+- **Description:** A map showing changes in Total Dissolved Nitrate from years 2000-2017 in the chesapeake bay
 
-**Project Goal:** My project goal was to see how water quality measurements for plant nutrients how changed over the years between 2000 and 2017.
+- **Project Goal:** My project goal was to see how water quality measurements for plant nutrients how changed over the years between 2000 and 2017.
 
-**About:** For this project, Four maps were made, showing the level of Total Nitrates measured at water quality monitoring stations for four different years: 2000, 2006, 2012, and 2017. Time periods were chosen to be in intervals of four to show the passage of time, without adding too much data. Data was first retrieved from Chesapeakebay.net, then extracted into a point shapefile. The shapefiles were then filtered to only show Total Nitrates, and the ranges were derived automatcially to create an equal interval symbology. The maps were then put into a gif to showcase the change over the years in the Bay.
+- **About:** For this project, Four maps were made, showing the level of Total Nitrates measured at water quality monitoring stations for four different years: 2000, 2006, 2012, and 2017. Time periods were chosen to be in intervals of four to show the passage of time, without adding too much data. Data was first retrieved from Chesapeakebay.net, then extracted into a point shapefile. The shapefiles were then filtered to only show Total Nitrates, and the ranges were derived automatcially to create an equal interval symbology. The maps were then put into a gif to showcase the change over the years in the Bay.
 
 **MAP**
 
 ![Project 2 GIF](https://github.com/lexiejferry/lexiejferry.github.io/blob/master/Chesapeake_Nitrates_Map/Nitrates.gif "Project1mapT2")
 
 
-**Python Code Description:** The python code used was specifically designed to be able to switch between different variables for the years in the [wq2000.selectByExpression('"Parameter"=\'TN\'', QgsVectorLayer.SetSelection)] line, by simply switching out TN with a different prefered variable. The code creates a range for the variable selected and automatically assigns and Equal Interval Classification Scheme.
+- **Python Code Description:** The python code used was specifically designed to be able to switch between different variables for the years in the [wq2000.selectByExpression('"Parameter"=\'TN\'', QgsVectorLayer.SetSelection)] line, by simply switching out TN with a different prefered variable. The code creates a range for the variable selected and automatically assigns and Equal Interval Classification Scheme.
 Python Code Used
 
 **Python Code Used**
@@ -164,17 +164,11 @@ QgsProject.instance().addMapLayer(wq2017_selection)
 
 ```
 
-**Results:** This data was not well represented by the equal interval classification scheme, and as a result the data is not easily interpretable. Using a classification scheme that equally weighs all maps on the same range would have been a better choice, but due to time constrainsts this was not possible.
+- **Results:** This data was not well represented by the equal interval classification scheme, and as a result the data is not easily interpretable. Using a classification scheme that equally weighs all maps on the same range would have been a better choice, but due to time constrainsts this was not possible.
 
-**Software Used:** QGIS 3.2, #https://giphy.com
+- **Software Used:** QGIS 3.2, #https://giphy.com
 
-**Data Sources:**
-
-Chesapeake Bay Program ( #http://data.chesapeakebay.net )
-
-PyQGISDeveloper Cookbook ( #https://docs.qgis.org/testing/pdf/en/QGIS-testing-PyQGISDeveloperCookbook-en.pdf )
-
-GIS Stack Exchange ( #https://gis.stackexchange.com/questions/100188/how-to-compute-an-interpolation-raster-from-the-python-console-in-qgis/233322 )
+- **Data Sources:** Chesapeake Bay Program (#http://data.chesapeakebay.net), PyQGISDeveloper Cookbook (#https://docs.qgis.org/testing/pdf/en/QGIS-testing-PyQGISDeveloperCookbook-en.pdf), GIS Stack Exchange (#https://gis.stackexchange.com/questions/100188/how-to-compute-an-interpolation-raster-from-the-python-console-in-qgis/233322)
 
 **Author:** Lexie Ferry
 
