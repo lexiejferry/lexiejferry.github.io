@@ -6,4 +6,4 @@
 
 **MAP**
 
-![AGISOFT 3D Map](https://github.com/lexiejferry/lexiejferry.github.io/blob/master/3D_Map_AGISOFT/Capture2.jpg "AGISOFT 3D map")
+![AGISOFT 3D Map](https://github.com/lexiejferry/lexiejferry.github.io/blob/master/3D_Map_AGISOFT/Capture2.JPG "AGISOFT 3D map")
