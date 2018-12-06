@@ -32,12 +32,12 @@
 ---
 ### Chesapeake Bay Nitrates
 
-![It's Fine Alt Text](project2_sfi/p2_teaser.png)
+![It's Fine Alt Text](Chesapeake_Nitrates_Map/Nitrates.gif)
 
 ---
 
 ---
-[See more details here.](https://dillonma.github.io/project2_sfi/project2.html)
+[See more details here.](https://lexiejferry.github.io/Chesapeake_Nitrates_Map/Chesapeake_Nitrates_Map.md)
 
 The text below is smaller than the rest of this text. I used html tags for `small` and wrapped the text like this:
 
