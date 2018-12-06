@@ -8,7 +8,7 @@
 
 ![alt text](https://github.com/lexiejferry/Project-1/blob/master/Project1mapT2.png "Project1mapT2")
 
-![alt text](https://github.com/lexiejferry/Project-1/blob/master/Chart_P2.png "Chart_P2")
+![alt text](https://github.com/lexiejferry/Project-1/blob/master/Chart_P2.PNG "Chart_P2")
 
 - **Results:** There was determined to be a slightly negative correlation between NDVI and State Tax values with a correlation of -0.1434. This is most likely due to the distribution of residential property being located near forests in suburbs, versus commercial property being located more in the city center where there is less vegetation. For a better result, a differentiation between residential and commercial property would be needed.
 
