@@ -1,6 +1,6 @@
 **NDVI Tax Rates**
 
-**A Comarision of Vegetation Presence to State Tax rates in Baltimore City**
+**Description:** A Comarision of Vegetation Presence to State Tax rates in Baltimore City
 
 - **Project goal:** My project goal was to see if there is a correlation between vegetation intensity and average state tax rates in Baltimore City.
 
