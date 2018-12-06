@@ -1,6 +1,5 @@
----
-title: Lexie Ferry's github Portfolio
----
+**Lexie Ferry's github Portfolio**
+
 <!--This is the first row of projects -->
 <div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
@@ -9,8 +8,11 @@ title: Lexie Ferry's github Portfolio
 
 ![It's Fine Alt Text](NDVI_Tax_Rates/Project1mapT2.png)
 
+---
 [See more details here.](https://lexiejferry.github.io/NDVI_Tax_Rates/NDVI_Tax_Rates.md)
+---
 
+---
 **Description** This map shows a 3D map of State Tax rates and NDVI values of all of Balitmore County in 2017. 
 
 **Software Used:** QGIS 3.2, Mircrosoft Excel (for the graphing and Correlation Equation)
@@ -18,6 +20,7 @@ title: Lexie Ferry's github Portfolio
 - **Tools, Plugins, and Packages:** Spatialite Databases, SQL Query, Zonal Statistics, Clip, Extract/clip by extent, Raster Calculator, Join attributes by location, 2.5D Visualization
 
 **Data Sources:** USGS Landsat 8 satellites, Baltimore City Services (https://cityservices.baltimorecity.gov/realproperty)
+---
 
 </div>
 
