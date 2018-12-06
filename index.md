@@ -4,6 +4,8 @@
 <div style="display:table-row; width:100%; table-layout: fixed">
 <div style="display: table-cell; width:370px; margin-right:3px" markdown="1">
 
+
+
 ---
 ### NDVI and State Tax Rates 
 
