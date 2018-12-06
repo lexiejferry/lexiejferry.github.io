@@ -6,7 +6,7 @@ About: For this project, Four maps were made, showing the level of Total Nitrate
 
 MAP
 
-![Project 2 GIF](https://raw.githubusercontent.com/lexiejferry/Project-2/master/Nitrates.gif "Project1mapT2")
+![Project 2 GIF](https://github.com/lexiejferry/lexiejferry.github.io/blob/master/Chesapeake_Nitrates_Map/Nitrates.gif "Project1mapT2")
 
 
 Python Code Description: The python code used was specifically designed to be able to switch between different variables for the years in the [wq2000.selectByExpression('"Parameter"=\'TN\'', QgsVectorLayer.SetSelection)] line, by simply switching out TN with a different prefered variable. The code creates a range for the variable selected and automatically assigns and Equal Interval Classification Scheme.
