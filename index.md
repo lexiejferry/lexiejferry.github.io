@@ -1,4 +1,6 @@
+---
 **Lexie Ferry's github Portfolio**
+---
 
 <!--This is the first row of projects -->
 <div style="display:table-row; width:100%; table-layout: fixed">
@@ -10,6 +12,7 @@
 
 ---
 [See more details here.](https://lexiejferry.github.io/NDVI_Tax_Rates/NDVI_Tax_Rates.md)
+
 ---
 
 ---
@@ -20,6 +23,7 @@
 - **Tools, Plugins, and Packages:** Spatialite Databases, SQL Query, Zonal Statistics, Clip, Extract/clip by extent, Raster Calculator, Join attributes by location, 2.5D Visualization
 
 **Data Sources:** USGS Landsat 8 satellites, Baltimore City Services (https://cityservices.baltimorecity.gov/realproperty)
+
 ---
 
 </div>
