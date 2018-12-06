@@ -6,9 +6,11 @@
 
 ---
 ### NDVI and State Tax Rates 
----
+
 
 ![It's Fine Alt Text](NDVI_Tax_Rates/Project1mapT2.png)
+
+---
 
 ---
 [See more details here.](https://lexiejferry.github.io/NDVI_Tax_Rates/NDVI_Tax_Rates.md)
