@@ -59,6 +59,8 @@
 
 ![Agisoft 3D Map](https://github.com/lexiejferry/lexiejferry.github.io/blob/master/3D_Map_AGISOFT/Capture2.JPG "Agisoft 3D map")
 
+[See more details here.](https://lexiejferry.github.io/3D_Map_AGISOFT/3D_Map_AGISOFT.html)
+
 **Description:** A 3D Map of a section of Universtiy of Maryland Baltimore County created using Agisoft software.
 
 **Software Used:** Agisoft PhotoScan Professional
