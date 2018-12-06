@@ -1,6 +1,4 @@
----
 **Lexie Ferry's github Portfolio**
----
 
 <!--This is the first row of projects -->
 <div style="display:table-row; width:100%; table-layout: fixed">
