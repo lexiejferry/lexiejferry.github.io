@@ -1,4 +1,4 @@
-**3-Dimensional Map of Universtiy of Maryland Baltimore County using Agisoft PhotoScan Professinoal
+**3-Dimensional Agisoft Map**
 
 **Project Goal:** To create a 3D map of a section of University of Maryland.
 
