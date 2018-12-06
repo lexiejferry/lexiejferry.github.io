@@ -33,13 +33,11 @@
 
 [See more details here.](https://lexiejferry.github.io/Chesapeake_Nitrates_Map/Chesapeake_Nitrates_Map.html)
 
-**Description** This map shows a 3D map of State Tax rates and NDVI values of all of Balitmore County in 2017. 
+**Results:** This data was not well represented by the equal interval classification scheme, and as a result the data is not easily interpretable. Using a classification scheme that equally weighs all maps on the same range would have been a better choice, but due to time constrainsts this was not possible.
 
-**Software Used:** QGIS 3.2, Mircrosoft Excel (for the graphing and Correlation Equation)
+**Software Used:** QGIS 3.2, #https://giphy.com
 
-- **Tools, Plugins, and Packages:** Spatialite Databases, SQL Query, Zonal Statistics, Clip, Extract/clip by extent, Raster Calculator, Join attributes by location, 2.5D Visualization
-
-**Data Sources:** USGS Landsat 8 satellites, Baltimore City Services (https://cityservices.baltimorecity.gov/realproperty)
+**Data Sources:** Chesapeake Bay Program (#http://data.chesapeakebay.net), PyQGISDeveloper Cookbook (#https://docs.qgis.org/testing/pdf/en/QGIS-testing-PyQGISDeveloperCookbook-en.pdf), GIS Stack Exchange (#https://gis.stackexchange.com/questions/100188/how-to-compute-an-interpolation-raster-from-the-python-console-in-qgis/233322)
 
 </div>
 </div>
