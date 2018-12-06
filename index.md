@@ -13,7 +13,7 @@
 ---
 
 ---
-[See more details here.](https://lexiejferry.github.io/NDVI_Tax_Rates/NDVI_Tax_Rates.md)
+[See more details here.](https://lexiejferry.github.io/NDVI_Tax_Rates/NDVI_Tax_Rates.html)
 
 **Description** This map shows a 3D map of State Tax rates and NDVI values of all of Balitmore County in 2017. 
 
@@ -37,7 +37,7 @@
 ---
 
 ---
-[See more details here.](https://lexiejferry.github.io/Chesapeake_Nitrates_Map/Chesapeake_Nitrates_Map.md)
+[See more details here.](https://lexiejferry.github.io/Chesapeake_Nitrates_Map/Chesapeake_Nitrates_Map.html)
 
 The text below is smaller than the rest of this text. I used html tags for `small` and wrapped the text like this:
 
