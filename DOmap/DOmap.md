@@ -33,7 +33,7 @@ GeoDa was used to preform the spatial analysis. A Moran's I for the hexagonal wh
 
 - **Results:** 
 
-![alt text](https://github.com/lexiejferry/lexiejferry.github.io/blob/master/DOmap/DOmap.JPG "Dissolved Oxygen Map")
+![alt text](https://github.com/lexiejferry/lexiejferry.github.io/blob/master/DOmap/DO_prediction.png "Dissolved Oxygen Map")
 
 - **Software Used:** QGIS 3.2, Mircrosoft Excel (for the graphing and Correlation Equation)
 
