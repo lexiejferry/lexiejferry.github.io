@@ -58,7 +58,7 @@ This map shows the results of the spatial coorelation mapping done in GeoDa. In 
 
 **Software Used:** QGIS 3.3, GeoDa, ArcMap
 
-**Tools, Plugins, and Packages Ssed:** Spatialite Databases, SQL Query, Zonal Statistics, IDW Interpolation, Hexagonal Grids, 2.5D Visualization
+**Tools, Plugins, and Packages Used:** Spatialite Databases, SQL Query, Zonal Statistics, IDW Interpolation, Hexagonal Grids, 2.5D Visualization
 
 **Data Sources:**
 
