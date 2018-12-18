@@ -82,9 +82,9 @@
 
 ### Final Project Placeholder
 
-![It's Fine Alt Text](project4_demo/p4_teaser.png)
+![It's Fine Alt Text](DOmap/DO_Prediction.png)
 
-[See more details here.](https://dillonma.github.io/project2_sfi/project2.html)
+[See more details here.](https://lexiejferry.github.io/DOmap/DOmap.md)
 
 </div>
 </div>
