@@ -35,6 +35,12 @@ GeoDa was used to preform the spatial analysis. A Moran's I for the hexagonal wh
 
 ![alt text](https://github.com/lexiejferry/lexiejferry.github.io/blob/master/DOmap/DO_Prediction.png "Dissolved Oxygen Map")
 
+This map shows the results of the 2022 dissolved oxygen prediction map. No area indicates a dissolved oxygen of less than one, indicating that no areas in the predicted map will have DO levels that completely kill all aquatic life. However, there are many areas that show DO levels that will cause the death of fish (but not benthic species like oysters), particularly in the Washington-Baltimore area, the mid-Potomac River, the western mouth of the Bay, and also in New York state and along the Susquehanna River near the Maryland-Pennslyvania border. Other areas of interest include the high DO levels around western Maryland and near Richmond Virginia. Additionally, most of the Chesapeake watershed falls into a grade of around 4.0 to 7.0 mg/L, indicating levels where fish are stressed but not harmed.
+
+The healthy DO levels in western Maryland could be indicative of the spring fed small streams the run along the Appalachins. In the Richmond area, the DO rises somewhat anomalusly. This area would be indicative of the James River, alonge which many agricultural areas can be found. While this river has historically been polluted, this extreme postive DO may reflect recent changes that the city of Richmond and state of Vigrinia have made to improve water quality.
+
+The lower DO near the DC-Baltimore area is indicative of the effects of urbanization and city spaces. In the Susquehanna River, it could indicate an area downstream of farmland that experiences nutrient pollution, and therefore algeal blooms and lower DO levels. This patern is repeated again along the New York State and Pennsylvania border, an area rich in farmland.
+
 - **Software Used:** QGIS 3.2, Mircrosoft Excel (for the graphing and Correlation Equation)
 
 - **Tools, Plugins, and Packages:** Spatialite Databases, SQL Query, Zonal Statistics, Clip, Extract/clip by extent, Raster Calculator, Join attributes by location, 2.5D Visualization
