@@ -51,6 +51,8 @@ This postive change in Maryland may be due to a number of factors; the involovem
 
 ![alt text](https://github.com/lexiejferry/lexiejferry.github.io/blob/master/DOmap/significance.JPG "GeoDa Significance Map")
 
+This map shows the results of the spatial coorelation mapping done in GeoDa. In this map, 'High' indicates an area that experiences positive change in DO, while 'Low' indicates a decrease in DO. GeoDa confirms that the area in western Maryland is a spatial outlier, and that the area in southern Pennsylvania is also an outlier. It also highlights the area near the mouth of the Bay that is experiencing positive change even though it is surrounded by negative change. Additionally, There is an area in mid- Pennsylvania that is experiencing a higher rate of change than the surrounding area. This area is covered in protected forests and farmlands and is around the border of the Appalachins. This could be because of an increase in riparian buffers, as farms in this area appear to have aa average of 1000 meters of riparian buffer before reaching the stream (according to satelite imagery from Google Maps), however more information would be needed to discern the true reason for this outlier.
+
 ---
 
 - **Software Used:** QGIS 3.3, GeoDa, ArcMap
