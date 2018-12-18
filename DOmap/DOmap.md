@@ -31,7 +31,7 @@ GeoDa was used to preform the spatial analysis. A Moran's I for the hexagonal wh
 
 ---
 
-- **Results:** 
+**Results:** 
 
 ![alt text](https://github.com/lexiejferry/lexiejferry.github.io/blob/master/DOmap/DO_Prediction.png "Dissolved Oxygen Map")
 
@@ -41,17 +41,29 @@ The healthy DO levels in western Maryland could be indicative of the spring fed 
 
 The lower DO near the DC-Baltimore area is indicative of the effects of urbanization and city spaces. In the Susquehanna River, it could indicate an area downstream of farmland that experiences nutrient pollution, and therefore algeal blooms and lower DO levels. This patern is repeated again along the New York State and Pennsylvania border, an area rich in farmland.
 
-![alt text](https://github.com/lexiejferry/lexiejferry.github.io/blob/master/DOmap/wheighted_change.png "Dissolved Oxygen Map")
+![alt text](https://github.com/lexiejferry/lexiejferry.github.io/blob/master/DOmap/wheighted_change.png "Weighted Rate of Change Map")
 
 This map shows the rate of change of dissolved oxygen for the selected years of analysis. This map shows that DO is changing most rapidly in western Maryland (in the postive direction) and in the southern Virginia area. This shows a clear distinction between state lines as Maryland is experiencing mostly small positve change while Virgina is experiencing negative change, especially along its southern watershed border.
 
 This postive change in Maryland may be due to a number of factors; the involovement of educational outreach programs on children that are now coming into adulthood, an increased understanding about the Bay's health problems, the effect continued environmental regulations. The negative change in Virginia may be attributed to state wide environmental regulation changes in the wake of new administration, and near Richmond this could be a sign of nutrients collecting and travelling downstream as the change in DO increases from the western watershed border to the eastern mouth of the Chesapeake.
 
-- **Software Used:** QGIS 3.2, Mircrosoft Excel (for the graphing and Correlation Equation)
+![alt text](https://github.com/lexiejferry/lexiejferry.github.io/blob/master/DOmap/cluster.JPG "GeoDa Cluster Map")
 
-- **Tools, Plugins, and Packages:** Spatialite Databases, SQL Query, Zonal Statistics, Clip, Extract/clip by extent, Raster Calculator, Join attributes by location, 2.5D Visualization
+![alt text](https://github.com/lexiejferry/lexiejferry.github.io/blob/master/DOmap/significance.JPG "GeoDa Significance Map")
 
-- **Data Sources:** Chesapeake Bay Foundation (https://www.chesapeakebay.net/)
+---
+
+- **Software Used:** QGIS 3.3, GeoDa, ArcMap
+
+- **Tools, Plugins, and Packages Ssed:** Spatialite Databases, SQL Query, Zonal Statistics, IDW interpolation, Hexagonal Grids, 2.5D Visualization
+
+---
+
+**Data Sources:**
+
+Water Quality Measurements: Chesapeake Bay Foundation (https://www.chesapeakebay.net/)
+
+Dissolved Oxygen Health Levels: Fondriest (https://www.fondriest.com/environmental-measurements/parameters/water-quality/dissolved-oxygen/)
 
 Author: Lexie Ferry
 
