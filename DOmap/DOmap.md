@@ -1,8 +1,9 @@
 **Predictive Map of Dissolved Oxygen Levels for the Chesapeake Bay**
 
-- **Description:** A predictive map of Dissolved Oxygen Levels of the Chesapeake Bay
+**Description:** A predictive map of Dissolved Oxygen Levels of the Chesapeake Bay
 
-- **Project goal:** My project goal was to use past Chesapeake Bay water quality data to do a predicitve map of Dissolved Oxygen for the year of 2022, using a wheighted rate of change for the entirety of the Chesapeake Bay watershed.
+**Project goal:** My project goal was to use past Chesapeake Bay water quality data to do a predicitve map of Dissolved Oxygen for the year of 2022, using a wheighted rate of change for the entirety of the Chesapeake Bay watershed.
+
 ---
 
 **About:** 
@@ -55,20 +56,18 @@ This map shows the results of the spatial coorelation mapping done in GeoDa. In 
 
 ---
 
-- **Software Used:** QGIS 3.3, GeoDa, ArcMap
+**Software Used:** QGIS 3.3, GeoDa, ArcMap
 
-- **Tools, Plugins, and Packages Ssed:** Spatialite Databases, SQL Query, Zonal Statistics, IDW interpolation, Hexagonal Grids, 2.5D Visualization
-
----
+**Tools, Plugins, and Packages Ssed:** Spatialite Databases, SQL Query, Zonal Statistics, IDW Interpolation, Hexagonal Grids, 2.5D Visualization
 
 **Data Sources:**
 
-Water Quality Measurements: Chesapeake Bay Foundation (https://www.chesapeakebay.net/)
+- Water Quality Measurements: Chesapeake Bay Foundation (https://www.chesapeakebay.net/)
 
-Dissolved Oxygen Health Levels: Fondriest (https://www.fondriest.com/environmental-measurements/parameters/water-quality/dissolved-oxygen/)
+- Dissolved Oxygen Health Levels: Fondriest (https://www.fondriest.com/environmental-measurements/parameters/water-quality/dissolved-oxygen/)
 
 Author: Lexie Ferry
 
-Date Created:   2018-09-24T09:45:11-04:00
+Date Created:   2018-12
 
 Email:  lexiejferry@gmail.com
