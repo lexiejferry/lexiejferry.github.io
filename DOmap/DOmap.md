@@ -41,7 +41,7 @@ The healthy DO levels in western Maryland could be indicative of the spring fed 
 
 The lower DO near the DC-Baltimore area is indicative of the effects of urbanization and city spaces. In the Susquehanna River, it could indicate an area downstream of farmland that experiences nutrient pollution, and therefore algeal blooms and lower DO levels. This patern is repeated again along the New York State and Pennsylvania border, an area rich in farmland.
 
-![alt text](https://github.com/lexiejferry/lexiejferry.github.io/blob/master/DOmap/wheighted_change "Dissolved Oxygen Map")
+![alt text](https://github.com/lexiejferry/lexiejferry.github.io/blob/master/DOmap/wheighted_change.png "Dissolved Oxygen Map")
 
 This map shows the rate of change of dissolved oxygen for the selected years of analysis. This map shows that DO is changing most rapidly in western Maryland (in the postive direction) and in the southern Virginia area. This shows a clear distinction between state lines as Maryland is experiencing mostly small positve change while Virgina is experiencing negative change, especially along its southern watershed border.
 
