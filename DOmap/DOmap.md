@@ -1,6 +1,6 @@
 **Predictive Map of Dissolved Oxygen Levels for the Chesapeake Bay**
 
-**Description:** A predictive map of Dissolved Oxygen Levels of the Chesapeake Bay
+- **Description:** A predictive map of Dissolved Oxygen Levels of the Chesapeake Bay
 
 - **Project goal:** My project goal was to use past Chesapeake Bay water quality data to do a predicitve map of Dissolved Oxygen for the year of 2022, using a wheighted rate of change for the entirety of the Chesapeake Bay watershed.
 ---
@@ -22,11 +22,9 @@ Dissolved oxygen values originally came in overlapping points for each measureme
 
 Using *zonal statistics* an average of the DO measurement was taken from the IDWs for each year for each hexagon. After this the hexagonal grid was converted to a SpaiaLite Datbase in order to do a SQL query. The specific SQL query used is below.
 
+![alt text](https://github.com/lexiejferry/lexiejferry.github.io/blob/master/DOmap/SQL.JPG "SQL")
 
-
-![alt text](https://github.com/lexiejferry/lexiejferry.github.io/blob/master/DOmap/ "Project1mapT2")
-
-![alt text](https://github.com/lexiejferry/lexiejferry.github.io/blob/master/NDVI_Tax_Rates/Chart_P2.PNG "Chart_P2")
+This analysis was done using a rated rate of change for the three years, with a higher wheight on the 2012 and 2017 change. To do this, the entire rate of change was taken for 2006 and 2017, and then combined with the the rate of change between the years of 2012 and 2017, and then divided by two. This wheighted rate of change was then simply added to the 2017 data to create the prediction for 2022.
 
 - **Results:** There was determined to be a slightly negative correlation between NDVI and State Tax values with a correlation of -0.1434. This is most likely due to the distribution of residential property being located near forests in suburbs, versus commercial property being located more in the city center where there is less vegetation. For a better result, a differentiation between residential and commercial property would be needed.
 
