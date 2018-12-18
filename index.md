@@ -13,7 +13,7 @@
 
 [See more details here.](https://lexiejferry.github.io/NDVI_Tax_Rates/NDVI_Tax_Rates.html)
 
-**Description** A 3D map of State Tax rates and NDVI values of all of Balitmore County in 2017. 
+**Description** A 3D map of state tax rates and NDVI values of all of Balitmore County in 2017. 
 
 **Software Used:** QGIS 3.2, Mircrosoft Excel (for the graphing and Correlation Equation)
 
@@ -32,7 +32,7 @@
 
 [See more details here.](https://lexiejferry.github.io/Chesapeake_Nitrates_Map/Chesapeake_Nitrates_Map.html)
 
-**Description:** A map of Chesapeake Bay Nitrate levels at all waterquality monitoring stations from 2000 to 2017 and a script to sort through any environmental measurement automatically
+**Description:** A map of Chesapeake Bay Nitrate levels at all water quality monitoring stations from 2000 to 2017 and a script to sort through any environmental measurement automatically.
 
 **Software Used:** QGIS 3.2, #https://giphy.com
 
@@ -68,7 +68,7 @@
 
 [See more details here.](https://lexiejferry.github.io/DOmap/DOmap.md)
 
-**Description:** A predictive map of Dissolved Oxygen Levels of the Chesapeake Bay
+**Description:** A predictive map of Dissolved Oxygen Levels of the Chesapeake Bay using past DO data and a weighted rate of change.
 
 **Software Used:** QGIS 3.3, GeoDa, ArcMap
 
