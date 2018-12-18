@@ -4,6 +4,7 @@
 
 - **Project goal:** My project goal was to use past Chesapeake Bay water quality data to do a predicitve map of Dissolved Oxygen for the year of 2022, using a wheighted rate of change for the entirety of the Chesapeake Bay watershed.
 ---
+
 **About:** 
 
 At the time of this map making, there has been a cut of environmental restrictions and a de-funding of environmental regulatory bodies. This project was done to show the how the most recent water quality measurements in the Chesapeake Bay have affected the rate of change of dissolved oxygen. Dissolved oxygen was chosen as the measurement because it is a derivitive of many environmental inputs, such as thermal pollution and nutrient pollution, but other environmental measurements were debated as using for the basis of this analysis, such as total dissolved nitrate, total dissolved phosphate, turbidity.
@@ -24,9 +25,15 @@ Using *zonal statistics* an average of the DO measurement was taken from the IDW
 
 ![alt text](https://github.com/lexiejferry/lexiejferry.github.io/blob/master/DOmap/SQL.JPG "SQL")
 
-This analysis was done using a rated rate of change for the three years, with a higher wheight on the 2012 and 2017 change. To do this, the entire rate of change was taken for 2006 and 2017, and then combined with the the rate of change between the years of 2012 and 2017, and then divided by two. This wheighted rate of change was then simply added to the 2017 data to create the prediction for 2022.
+This analysis was done using a rated rate of change for the three years, with a higher wheight on the 2012 and 2017 change. To do this, the entire rate of change was taken for 2006 and 2017, and then combined with the the rate of change between the years of 2012 and 2017, and then divided by two. This wheighted rate of change was then simply added to the 2017 data to create the prediction for 2022.A map for the wheighted rate of change was also created to show the rate of change in dissolved oxygen across the watershed
 
-- **Results:** There was determined to be a slightly negative correlation between NDVI and State Tax values with a correlation of -0.1434. This is most likely due to the distribution of residential property being located near forests in suburbs, versus commercial property being located more in the city center where there is less vegetation. For a better result, a differentiation between residential and commercial property would be needed.
+GeoDa was used to preform the spatial analysis. A Moran's I for the hexagonal wheighted rate of change map was used to look for spatial outliers. Both a significance and a cluster map were created. These maps acted to show the sharp transitions between areas
+
+---
+
+- **Results:** 
+
+![alt text](https://github.com/lexiejferry/lexiejferry.github.io/blob/master/DOmap/DOmap.JPG "Dissolved Oxygen Map")
 
 - **Software Used:** QGIS 3.2, Mircrosoft Excel (for the graphing and Correlation Equation)
 
