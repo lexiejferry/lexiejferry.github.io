@@ -3,6 +3,6 @@ remote_theme: daviddarnes/alembic
 navigation_header:
   Home: /
   NDVI Tax Rate Map: /NDVI_Tax_Rates/NDVI_Tax_Rates.html
-  Chesapeake Bay Nitrates_Map: /Chesapeake_Nitrates_Map/Chesapeake_Nitrates_Map.html
+  Chesapeake Bay Nitrates Map: /Chesapeake_Nitrates_Map/Chesapeake_Nitrates_Map.html
   3D Agisoft Map: /3D_Map_AGISOFT/3D_Map_AGISOFT.html
   Bay Dissolved Oxygen Predictive Map: /DOmap/DOmap.html
