@@ -30,7 +30,7 @@
 
 ![It's Fine Alt Text](Chesapeake_Nitrates_Map/Nitrates.gif)
 
-[See more details here.](https://lexiejferry.github.io/Chesapeake_Nitrates_Map/Chesapeake_Nitrates_Map.html)
+[See more details here.](https://github.com/lexiejferry/lexiejferry.github.io/blob/master/Chesapeake_Nitrates_Map/Chesapeake_Nitrates_Map.md)
 
 **Description:** A map of Chesapeake Bay Nitrate levels at all water quality monitoring stations from 2000 to 2017 and a script to sort through any environmental measurement automatically.
 
