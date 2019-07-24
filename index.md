@@ -66,7 +66,7 @@
 
 ![It's Fine Alt Text](DOmap/DO_Prediction.png)
 
-[See more details here.](https://lexiejferry.github.io/DOmap/DOmap.md)
+[See more details here.](https://github.com/lexiejferry/lexiejferry.github.io/blob/master/DOmap/DOmap.md)
 
 **Description:** A predictive map of Dissolved Oxygen Levels of the Chesapeake Bay using past DO data and a weighted rate of change.
 
