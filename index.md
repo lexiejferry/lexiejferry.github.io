@@ -11,7 +11,7 @@
 
 ![It's Fine Alt Text](NDVI_Tax_Rates/Project1mapT2.png)
 
-[See more details here.](https://github.com/lexiejferry/lexiejferry.github.io/blob/master/NDVI_Tax_Rates/NDVI_Tax_Rates.md)
+[See more details here.](https://github.com/lexiejferry/lexiejferry.github.io/blob/master/NDVI_Tax_Rates/NDVI_Tax_Rates.html)
 
 **Description** A 3D map of state tax rates and NDVI values of all of Balitmore County in 2017. 
 
